@@ -1,0 +1,4 @@
+[2015Jun12 09:49:59,291][INFO ][][configurarLogger BSSIntLogger.java:67][APLICACION: ConsultaTipoFacturacion - VERSION: 2.0]
+[2015Jun12 09:49:59,315][INFO ][][configurarLogger BSSIntLogger.java:69][DESCRIPCION: Servicios de Integracion - Servicio encargado de determinar si una linea es prepago o postpago]
+[2015Jun12 09:50:02,614][INFO ][1434118799317][doPost ConsultaTipoFacturacionServlet.java:96][Consulta realizada con exito]
+[2015Jun12 09:50:15,172][INFO ][1434118814765][doPost ConsultaTipoFacturacionServlet.java:96][Consulta realizada con exito]
