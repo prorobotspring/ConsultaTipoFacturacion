@@ -1,0 +1,2 @@
+# ConsultaTipoFacturacion
+ConsultaTipoFacturacion
